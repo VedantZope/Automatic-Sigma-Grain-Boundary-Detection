@@ -1,0 +1,8 @@
+# Ignore all files in the models directory
+Models/
+
+# Ignore all files in specific dataset directories
+Dataset/
+
+# Ignore the virtual environment directory
+.venv/
