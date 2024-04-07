@@ -31,4 +31,5 @@ To get started with this project, clone the repository and follow the setup inst
 ```bash
 git clone https://github.com/VedantZope/Automatic-Sigma-Grain-Boundary-Detection.git
 cd Automatic-Sigma-Grain-Boundary-Detection
+python GB_identification.py
 streamlit run Deployment/app.py
